@@ -1,3 +1,27 @@
+สู่ขั้นตอน up ขึ้น github.com
+Create a new repository ที่่ github.com ชื่อ aa
+ที่่ command line
+ตัวอย่างจาก github ------------ เริ่มต้น
+echo "# aa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mrdencpt/aa.git
+git push -u origin main
+-------------------
+----- ย่อ ------
+git init สร้าง folder git
+git add -A
+git commit -m "first commit"
+git remote add origin https://github.com/mrdencpt/aa.git
+git push origin main
+------ เพิ่มเติม งานgit ------------
+git status เช็คดูว่ามีไฟล์อะไรบ้าง
+git add -A
+git commit -m "updateล่าสุด"
+git push origin main
+------------------------------------------------------------
 
 pip install django==3.1
 
