@@ -17,7 +17,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/mrdencpt/aa.git
 git push origin main
 ------ เพิ่มเติม งานgit ------------
-git status เช็คดูว่ามีไฟล์อะไรบ้าง
+git status เช็คดูว่ามีอะไรเปลี่ยนแปลงบ้าง
 git add -A
 git commit -m "updateล่าสุด"
 git push origin main
