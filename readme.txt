@@ -8,14 +8,14 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mrdencpt/aa.git
-git push -u origin main
+git push -u origin master
 -------------------
 ----- ย่อ ------
 git init สร้าง folder git
 git add -A
 git commit -m "first commit"
 git remote add origin https://github.com/mrdencpt/aa.git
-git push origin main
+git push origin master
 ------ เพิ่มเติม งานgit ------------
 git status เช็คดูว่ามีไฟล์อะไรบ้าง
 git add -A
