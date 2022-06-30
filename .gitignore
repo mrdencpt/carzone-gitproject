@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 979157d2b6c455ed2175b2851b2e99fa25141501
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
@@ -173,4 +177,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/django
+=======
+# End of https://www.toptal.com/developers/gitignore/api/django
+>>>>>>> 979157d2b6c455ed2175b2851b2e99fa25141501
